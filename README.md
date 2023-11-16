@@ -1,6 +1,5 @@
-# Financial-Engineering
+# Quantitative finance project from HSE&LSE course
 
-### Repository dedicated to quantitative finance projects.
 ![alt text](pics/Untitled-8.png)
 
 :octocat: ```Sem 1.ipynb``` -  data from yfinance, Adj Close/Close, quotes validation, simple moving average (SMA)
