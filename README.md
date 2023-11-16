@@ -1,4 +1,4 @@
-# Quantitative finance project from HSE & LSE course
+# Quantitative finance projects
 
 ![alt text](pics/Untitled-8.png)
 
