@@ -1,4 +1,4 @@
-# Quantitative finance projects
+
 
 ![alt text](pics/Untitled-8.png)
 
