@@ -5,7 +5,7 @@
 ## Long Stocks Investing
 :card_index_dividers: ```Stock selection.pdf``` - tiny investment pitch about stock picking based on sectors and companies information
 
-:chart_with_upwards_trend: ```Stock ROI.ipynb``` - evaluating the ROI of stocks from ```Stock selection.pdf```
+:chart_with_upwards_trend: ```Stocks ROI.ipynb``` - evaluating the ROI of stocks from ```Stock selection.pdf```
 
 ## Assets Analytics
 
