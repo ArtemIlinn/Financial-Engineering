@@ -2,12 +2,12 @@
 
 ![alt text](pics/Untitled-8.png)
 
-### Long Stocks Investing
+## Long Stocks Investing
 :card_index_dividers: ```Stock selection.pdf``` - tiny investment pitch about stock picking based on sectors and companies information
 
 :chart_with_upwards_trend: ```Stock ROI.ipynb``` - evaluating the ROI of stocks from ``Stock selection.pdf```
 
-### Assets Analytics
+## Assets Analytics
 
 :octocat: ```Task 1.ipynb``` -  data from yfinance, Adj Close/Close, quotes validation, simple moving average (SMA)
 
@@ -23,7 +23,7 @@
 
 :battery: ```Task 7.ipynb``` - sectors (XL*) ETFs, market volatility comparison (March 2020 and 2022), diversification, Sharpe ratio, top 5 sectors
 
-### Relative Strength Index & Dogecoin Trading Strategy  
+## Relative Strength Index & Dogecoin Trading Strategy  
 
 ![alt text](pics/Dogecoin.png)
 
